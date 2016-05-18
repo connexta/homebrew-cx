@@ -2,7 +2,7 @@ class Libera < Formula
   desc "Multi-Release Automation Tool"
   homepage "https://github.com/connexta/libero.git"
   url "http://repo1.maven.org/maven2/com/connexta/libera/libera/1.0.1/libera-1.0.1.tar"
-  sha1 "b3a866712d79d99c5e57c87db4691c517ee6071e"
+  sha256 "501847fb9a85accaebe4ddd62de42927534c4d720365258bfc831ffdf4da8921"
 
   bottle :unneeded
 
